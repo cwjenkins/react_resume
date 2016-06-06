@@ -1,0 +1,93 @@
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+}
+
+.cv-section {
+    margin-top: 5px;
+}
+
+.cv-section ul {
+    margin: 3px 0;
+}
+
+.cv-section__title {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.cv-section__title:after {
+    position: absolute;
+    margin-top: 20px;
+    overflow: hidden;
+    height: 3px;
+    content: '\a0';
+    background-color: gray;
+    margin-left: 10px;
+    width: 100%;
+}
+
+.cv-content {
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.8px;
+}
+
+.cv-item {
+    font-size: 22px;
+    color: #00ADEF;
+    padding-top: 4px;
+}
+
+.cv-item__position {
+    font-style: italic;
+}
+
+.header {
+    text-align: center;
+}
+
+.header div {
+  padding: 3px;
+}
+
+.header__name {
+  font-size: 36px;
+}
+
+.header__mylabel {
+    margin-top: -10px;
+}
+
+.header__address {
+    color: grey;
+}
+
+.header__details i {
+    padding-right: 5px;
+}
+
+.header__details span {
+    padding: 0 2px;
+}
+
+.header__details a {
+    text-decoration: none;
+    color: black;
+}
+
+.skillset__list {
+    table-layout: fixed;
+}
+
+.skillset__list td{
+    width: 250px;
+}
+
+.skillset__list td:before {
+    padding-right: 3px;
+    content: "∘";
+    color: #00ADEF;
+}
