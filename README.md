@@ -5,18 +5,18 @@ To get started:
 
 1. Install
   ```
-    npm install
-      ```
+  npm install
+  ```
 
 2. Build
   ```
-    npm run build
-      ```
+  npm run build
+  ```
 
 3. Start
   ```
-    npm start
-      ```
+  npm start
+  ```
 
 After modifying the react classes to match your resume rerun the build step and then refresh [localhost:8080](http://localhost:8080)
 
