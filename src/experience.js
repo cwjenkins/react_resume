@@ -9,7 +9,7 @@ var Experience = React.createClass({
               <span className='cv-item'>Smashing Boxes</span>
             </div>
             <div className='cv-content'>
-              Highlights:
+              Refactored and developed a few Ruby on Rails apps with Rails 4
               <ul>
                 <li>Built a search feature that uses elastic search for caching, type-ahead for the frontend search, sidekiq for
             asynchronous requests to an external oData API endpoint.</li>
@@ -25,11 +25,11 @@ var Experience = React.createClass({
             </div>
             <div>
               <span className='cv-item'>Oct 2012 - May 2014, </span>
-              <span className='cv-item cv-item__position'>Director of Technology, </span>
+              <span className='cv-item cv-item__position'>DoT/Ruby on Rails Developer, </span>
               <span className='cv-item'>HRAnswerlink</span>
             </div>
             <div className='cv-content'>
-            Managed everything tech related including the following:
+              Managed everything tech related and developed Ruby on Rails apps with Rails 2 \& 3
               <ul>
                 <li>Created a tech team handling all the interviews.</li>
                 <li>Designed new and refactored old Ruby on Rails apps.</li>
