@@ -29,7 +29,7 @@ var Experience = React.createClass({
               <span className='cv-item'>HRAnswerlink</span>
             </div>
             <div className='cv-content'>
-              Managed everything tech related and developed Ruby on Rails apps with Rails 2 \& 3
+              Managed everything tech related and developed Ruby on Rails apps with Rails 2 & 3
               <ul>
                 <li>Created a tech team handling all the interviews.</li>
                 <li>Designed new and refactored old Ruby on Rails apps.</li>
